@@ -1,0 +1,26 @@
+/* .list{
+    display: flex;
+    flex-wrap: wrap;
+} */
+ .div1{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+ }
+ #text{
+    margin-top: 30%;
+ }
+ .img-card{
+    height: 200px;
+ }
+ .card-group{
+    padding: 20px;
+ }
+ .overlay{
+    display: inline-block;
+    background-color: black;
+ }
+ footer{
+    padding: 20px;
+    height: 80px;
+ }
